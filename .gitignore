@@ -1,1 +1,9 @@
 pdf/
+__pycache__/
+pdf_to_download.csv
+*.pyc
+*.pyo
+*.pyd
+.envrc
+uv.lock
+.python-version
